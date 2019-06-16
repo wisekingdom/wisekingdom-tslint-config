@@ -1,7 +1,7 @@
 {
   "name": "@wisekingdom/tslint-config",
   "description": "A TSLint config for Wise Kingdom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "tslint.js",
   "repository": "https://github.com/isman-usoh/wisekingdom-tslint-config.git",
   "author": "Isman Usoh <isman.usoh@gmail.com>",
