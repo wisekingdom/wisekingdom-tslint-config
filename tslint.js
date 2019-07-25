@@ -1,7 +1,8 @@
 module.exports = {
     "defaultSeverity": "error",
     "extends": [
-        "tslint:recommended"
+        "tslint:recommended",
+        "tslint-config-prettier"
     ],
     "jsRules": {
         "no-unused-expression": true
