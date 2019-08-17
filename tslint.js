@@ -2,12 +2,14 @@ module.exports = {
     "defaultSeverity": "error",
     "extends": [
         "tslint:recommended",
-        "tslint-config-prettier"
+        "tslint-config-prettier",
+        "tslint-plugin-prettier"
     ],
     "jsRules": {
         "no-unused-expression": true
     },
     "rules": {
+        "prettier": true,
         "semicolon": [
             true,
             "never"

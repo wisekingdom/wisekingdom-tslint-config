@@ -25,6 +25,8 @@ In `tslint.json`:
 ### Rules
 
 * [tslint](https://www.npmjs.com/package/tslint)
+* [tslint-config-prettier](https://www.npmjs.com/package/tslint-config-prettier)
+* [tslint-plugin-prettier](https://www.npmjs.com/package/tslint-plugin-prettier)
 
 ## Versioning
 
