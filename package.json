@@ -1,7 +1,7 @@
 {
   "name": "@wisekingdom/tslint-config",
   "description": "A TSLint config for Wise Kingdom",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "main": "tslint.js",
   "repository": "https://github.com/isman-usoh/wisekingdom-tslint-config.git",
   "author": "Isman Usoh <isman.usoh@gmail.com>",
@@ -31,6 +31,7 @@
     "typescript": "^3.0.3"
   },
   "dependencies": {
-    "tslint-config-prettier": "^1.18.0"
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-plugin-prettier": "^2.0.1"
   }
 }
